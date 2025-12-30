@@ -4,7 +4,7 @@
 
 ![About Me s2ection on functional macOS](https://nowa.dokuritsu.cc/personal/hacks/intel/nov2023/h510-11th-gen-intel/desktop.png)
 
-This is my personal EFI for my home PC. You can use it for your PC if your hardware is [simillar](https://github.com/neppedboy/h510-11thgen-hackintosh#computer-specs)
+This is my personal EFI for my home PC. You can use it for your PC if your hardware is [simillar](https://github.com/nowikova/my-hackintosh-configs/tree/h510-11th-gen-intel?tab=readme-ov-file#computer-specs)
 
 # DONT USE THIS AS IT IS
 It WONT work normally. You should make some changes before using this EFI configuration
