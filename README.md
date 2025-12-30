@@ -2,7 +2,7 @@
 
 ## [Reddit post](https://www.reddit.com/r/hackintosh/comments/17rpjy0/macos_11_big_sur_11th_gen_intel_rx_5600xt/) | [Source](https://github.com/neppedboy/h510-11thgen-hackintosh/tree/main/source/EFI) | [Opencore Guide](https://dortania.github.io/OpenCore-Install-Guide/)
 
-![About Me s2ection on functional macOS](https://raw.githubusercontent.com/neppedboy/h510-11thgen-hackintosh/main/assets/macOS%20About%20Mac.png)
+![About Me s2ection on functional macOS](https://nowa.dokuritsu.cc/personal/hacks/intel/nov2023/h510-11th-gen-intel/desktop.png)
 
 This is my personal EFI for my home PC. You can use it for your PC if your hardware is [simillar](https://github.com/neppedboy/h510-11thgen-hackintosh#computer-specs)
 
@@ -44,7 +44,7 @@ It WONT work normally. You should make some changes before using this EFI config
 ## Another useful screenshots
 
 ### Neofetch Information
-![Neofetch Info](https://raw.githubusercontent.com/neppedboy/h510-11thgen-hackintosh/main/assets/macOS%20Neofetch.png)
+![Neofetch Info](https://nowa.dokuritsu.cc/personal/hacks/intel/nov2023/h510-11th-gen-intel/neofetch.png)
 
 ### Hackintool Information 
-![Hackintool](https://raw.githubusercontent.com/neppedboy/h510-11thgen-hackintosh/main/assets/macOS%20Hackintool.png)
+![Hackintool](https://nowa.dokuritsu.cc/personal/hacks/intel/nov2023/h510-11th-gen-intel/hackintool.png)
